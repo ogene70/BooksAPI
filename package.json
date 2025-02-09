@@ -1,0 +1,16 @@
+{
+  "name": "api-livres-nodeexpress",
+  "version": "1.0.0",
+ 
+  "description": "Api de livres en NodeJs+express  ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ogene JOSEPH",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nano": "^10.1.4"
+  }
+}

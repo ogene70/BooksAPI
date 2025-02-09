@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Accueil - API Gestion des Livres</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .container {
+            text-align: center;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .container h1 {
+            margin-bottom: 20px;
+        }
+        .container p {
+            margin-bottom: 20px;
+        }
+        .container button {
+            padding: 10px 20px;
+            margin: 5px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        .container button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Bienvenue sur la Gestion des Livres</h1>
+        <p>Ce projet est une API REST permettant de gérer une collection de livres. Vous pouvez consulter les détails d'un livre, les pages d'un livre, et bien plus encore.</p>
+        <button onclick="window.location.href='/livres/53/pages/119'">Voir Page 119</button>
+        <button onclick="window.location.href='/livres/53/pages/192'">Voir Pages du Livre</button>
+        <button onclick="window.location.href='/livres/53'">Voir Détails du Livre</button>
+        <button onclick="window.location.href='/livres'">Voir Tous les Livres</button>
+    </div>
+</body>
+</html>
