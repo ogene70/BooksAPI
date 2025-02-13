@@ -2,8 +2,11 @@
 
 const express = require('express');
 const app = express();
-//APPEL ET UTILISATION DU ROUTER 
+// const { CORSMiddleware } = require('./middleware/CORSMiddleware');
 
+// app.use(CORSMiddleware)
+app.use(express.json())
+//APPEL ET UTILISATION DU ROUTER 
 const  livresRouter = require('./routes/routes');
 app.use(livresRouter); 
 
