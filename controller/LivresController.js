@@ -19,7 +19,7 @@ const { NotFoundError } = require('../Error/CustomErrors');
         try {
             const promise=await new LivresDB().livre(req.params.numero);
             if (promise!=false) {
-                 res.status(200).json(result)
+                 res.status(200).json(promise)
             } else {
                 throw new NotFoundError() //creation d'une exeption
             }
