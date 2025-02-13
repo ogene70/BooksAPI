@@ -19,10 +19,6 @@ listeLivres= async ()=>{
         return []; 
     });
  }
- livre= ()=>{}
- createLivres= ()=>{}
- updateLivres= ()=>{}
- deleteLivres= ()=>{}
 
 }
 module.exports={LivresDB}
