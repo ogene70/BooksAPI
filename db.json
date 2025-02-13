@@ -1,0 +1,145 @@
+[
+    {
+      "_id": "a9d34c1bdb96a3a0e24f8e0fb6b56ff0",
+      "numero": 1,
+      "titre": "Les Misérables",
+      "pages": [
+        "Il est rare que les prisons réhabilitent les détenus.",
+        "La parole de Jean Valjean fit battre les cœurs."
+      ]
+    },
+    {
+      "_id": "29e84bdbb1b2c93a1e6fa6e4dcf72f22",
+      "numero": 2,
+      "titre": "Madame Bovary",
+      "pages": [
+        "Emma rêvait d'une vie romanesque.",
+        "Charles Bovary aimait sa femme d'un amour aveugle."
+      ]
+    },
+    {
+      "_id": "8b0f6318d2e1049f0c7e4d83538b6d38",
+      "numero": 3,
+      "titre": "L'Étranger",
+      "pages": [
+        "Aujourd'hui, maman est morte. Ou peut-être hier, je ne sais pas.",
+        "J'ai tiré sur l'Arabe."
+      ]
+    },
+    {
+      "_id": "68a8d6b5fc4b7a4f91591c31b02c9382",
+      "numero": 4,
+      "titre": "Le Petit Prince",
+      "pages": [
+        "On ne voit bien qu'avec le cœur.",
+        "L'essentiel est invisible pour les yeux."
+      ]
+    },
+    {
+      "_id": "d4f5e3b6bfe840fd98069a589bfa52ad",
+      "numero": 5,
+      "titre": "Candide",
+      "pages": [
+        "Tout est pour le mieux dans le meilleur des mondes possibles.",
+        "Il faut cultiver notre jardin."
+      ]
+    },
+    {
+      "_id": "793483619ca38b8c0af7cfaa9c7e9b70",
+      "numero": 6,
+      "titre": "La Peste",
+      "pages": [
+        "Le fléau s’abattit sur Oran.",
+        "Cottard profita de la situation."
+      ]
+    },
+    {
+      "_id": "1e8b07f302789f3cc3c6f5f22c8c30b1",
+      "numero": 7,
+      "titre": "Bel-Ami",
+      "pages": [
+        "Georges Duroy gravit les échelons de la société.",
+        "La puissance de la presse se révéla à lui."
+      ]
+    },
+    {
+      "_id": "d2b7ec6e9f44c6c5c54a5c7e67c8ad08",
+      "numero": 8,
+      "titre": "Les Fleurs du mal",
+      "pages": [
+        "Baudelaire chanta la beauté et la mélancolie.",
+        "Son spleen le dévorait."
+      ]
+    },
+    {
+      "_id": "fe823967a4c66c2cf87789fa3d1c4328",
+      "numero": 9,
+      "titre": "Notre-Dame de Paris",
+      "pages": [
+        "La cathédrale résonnait des cloches de Quasimodo.",
+        "Esmeralda dansait sur la place."
+      ]
+    },
+    {
+      "_id": "3666bb8ac903fac35c0379cf6d00a827",
+      "numero": 10,
+      "titre": "le rouge et le noir",
+      "pages": [
+        "La petite ville de Verrières peut passer pour l’une des plus jolies",
+        "Ses maisons blanches s’étendent sur la pente d’une colline"
+      ]
+    },
+    {
+      "_id": "a7d384bfeecc6e40f12cabbf6f4a8821",
+      "numero": 11,
+      "titre": "L'assommoir",
+      "pages": [
+        "Lantier traînait dans les bars de la rue de la Goutte-d'Or.",
+        "Gervaise se débattait contre la misère."
+      ]
+    },
+    {
+      "_id": "97b1d88cecb5483998990f09da49f80d",
+      "numero": 12,
+      "titre": "Germinal",
+      "pages": [
+        "Étienne Lantier s’enfonçait dans la mine.",
+        "La révolte grondait dans les galeries."
+      ]
+    },
+    {
+      "_id": "25f3a43a3e6e4f1baeb68805b22c439c",
+      "numero": 13,
+      "titre": "Le Grand Meaulnes",
+      "pages": [
+        "Augustin Meaulnes, l’éternel adolescent.",
+        "La mystérieuse fête du domaine perdu."
+      ]
+    },
+    {
+      "_id": "4bc4b4a7d6f6c9a4dbab6a2a6456cffa",
+      "numero": 14,
+      "titre": "À la recherche du temps perdu",
+      "pages": [
+        "Du côté de chez Swann.",
+        "La madeleine éveilla ses souvenirs."
+      ]
+    },
+    {
+      "_id": "52f764bf9328382e0b5eb35c4e5a39e4",
+      "numero": 15,
+      "titre": "Le Comte de Monte-Cristo",
+      "pages": [
+        "Edmond Dantès s’évada de l’île d’If.",
+        "Il revint pour assouvir sa vengeance."
+      ]
+    },
+    {
+      "_id": "c3c4b3a734f84823b93f8a14b5e7c0af",
+      "numero": 16,
+      "titre": "Les Trois Mousquetaires",
+      "pages": [
+        "D'Artagnan et ses amis.",
+        "Un pour tous, tous pour un."
+      ]
+    }]

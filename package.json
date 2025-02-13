@@ -1,7 +1,6 @@
 {
   "name": "api-livres-nodeexpress",
   "version": "1.0.0",
- 
   "description": "Api de livres en NodeJs+express  ",
   "main": "index.js",
   "scripts": {
@@ -10,7 +9,10 @@
   "author": "ogene JOSEPH",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.21.2",
+    "joi": "^17.13.3",
+    "jsonwebtoken": "^9.0.2",
     "nano": "^10.1.4"
   }
 }
